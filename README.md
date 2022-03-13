@@ -21,7 +21,7 @@
     <a href="https://github.com/charbossly/Rent-Bike"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://charbossly.github.io/Rent-Bike/">View Demo</a>
+    <a href="https://charbossly.github.io/Rent-Bike/public">View Demo</a>
     ·
     <a href="https://github.com/charbossly/Rent-Bike/issues">Report Bug</a>
     ·
