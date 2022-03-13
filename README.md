@@ -13,10 +13,10 @@
 <div align="center">
 
 
-  <h3 align="center">COALS</h3>
+  <h3 align="center">RENT BIKE</h3>
 
   <p align="center">
-    A web application to facilitate the sale of bags of coal.
+    A web application to rent bike.
     <br />
     <a href="https://github.com/charbossly/Rent-Bike"><strong>Explore the docs »</strong></a>
     <br />
